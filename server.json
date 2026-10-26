@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.phantasyx/kempt-horizon-data-toolkit",
+  "title": "Kempt Horizon Data Toolkit",
+  "description": "17 read-only tools: web pages to Markdown, data cleaning, SEC EDGAR, Federal Register and grants.",
+  "version": "1.0.0",
+  "websiteUrl": "https://phantasyx.com/apis/docs",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://kempt-horizon-data-toolkit.mcpize.run/mcp"
+    }
+  ]
+}
